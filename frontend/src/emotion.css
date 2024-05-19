@@ -1,0 +1,22 @@
+.emotion-table {
+    position: absolute;
+    width: 80%;
+    border-collapse: collapse;
+    background-color: white;
+    left: 10%;
+    top: 20%;
+  }
+  
+  .emotion-table th, .emotion-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  .highlight {
+    color: #ff6347;
+    font-weight: bold;
+  }
+  h2{
+    margin-left: 10%;
+  }
+  
